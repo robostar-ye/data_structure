@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.17)
+project(test_2)
+
+set(CMAKE_CXX_STANDARD 11)
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
+
+add_executable(homework_3 homework/homework_3.cpp include/lists.hpp)
+add_executable(from_zhanghuimin from_zhanghuimin.cpp include/lists.hpp)
+add_executable(exp1_1 exp1/exp1_1.cpp include/lists.hpp exp2/exp2_1.cpp)
+add_executable(exp1_2 include/lists.hpp exp1/exp1_2.cpp)
+add_executable(exp1_3 exp1/exp1_3.cpp include/lists.hpp)
+add_executable(exp2_1 exp2/exp2_1.cpp include/stacks.hpp)
+add_executable(exp2_2 exp2/exp2_2.cpp include/stacks.hpp)
+add_executable(exp2_3 exp2/exp2_3.cpp include/stacks.hpp include/queues.hpp)
+add_executable(exp2_4 exp2/exp2_4.cpp include/stacks.hpp)
+add_executable(homework_4 homework/homework_4.cpp include/trees.hpp)
