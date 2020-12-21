@@ -4,7 +4,7 @@
 #include "../include/stacks.hpp"
 
 int main(){
-  int nums, scale;
+  int nums;
 
   //! TEST
 //  LinkStack test;

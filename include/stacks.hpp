@@ -6,7 +6,7 @@
 #define TEST_2_STACKS_HPP
 #include "iostream"
 
-class Node {
+struct Node {
 public:
   char data = 0;
   Node *down = nullptr;
@@ -22,20 +22,20 @@ public:
   void insertList(char data);
   void deleteList();
   void show();
-  char getHead() { return head_->data; };
+  char getHead() { return top_->data; };
 
 private:
-  Node *head_;
+  Node *top_;
   int size_{};
 };
 
 LinkStack::LinkStack() {
-  head_ = new Node;
+  top_ = new Node;
   size_ = 0;
 }
 
 LinkStack::~LinkStack() {
-  Node *temp_1 = head_, *temp_2;
+  Node *temp_1 = top_, *temp_2;
   while (temp_1 != nullptr) {
     temp_2 = temp_1->down;
     delete temp_1;
@@ -50,7 +50,7 @@ void LinkStack::createLinkStack(int size) {
 
   Node *temp_1 = nullptr, *temp_2 = nullptr;
   this->size_ = size;
-  // temp_2 = this->head_;
+  // temp_2 = this->top_;
   for (int i = 0; i < size; i++) {
     temp_1 = new Node;
     temp_1->down = nullptr;
@@ -59,7 +59,7 @@ void LinkStack::createLinkStack(int size) {
     temp_1->down = temp_2;
     temp_2 = temp_1;
   }
-  head_ = temp_1;
+  top_ = temp_1;
   std::cout << "创建完成" << std::endl;
 }
 
@@ -76,8 +76,8 @@ void LinkStack::insertList(char data) {
   Node *temp_1;
   temp_1 = new Node;
   temp_1->data = data;
-  temp_1->down = head_;
-  head_ = temp_1;
+  temp_1->down = top_;
+  top_ = temp_1;
   size_++;
   std::cout << "插入" << data << "成功" << std::endl;
 }
@@ -85,15 +85,17 @@ void LinkStack::insertList(char data) {
 void LinkStack::deleteList() {
   if (size_ < 1)
     std::cerr << "栈已空，无法继续删除" << std::endl;
-  Node *temp_1;
-  temp_1 = head_->down;
-  delete head_;
-  head_ = temp_1;
-  std::cout << "删除成功" << std::endl;
+  else {
+    Node *temp_1;
+    temp_1 = top_->down;
+    delete top_;
+    top_ = temp_1;
+    std::cout << "删除成功" << std::endl;
+  }
 }
 
 void LinkStack::show() {
-  Node *temp = head_;
+  Node *temp = top_;
   while (temp != nullptr) {
     std::cout << temp->data;
     temp = temp->down;

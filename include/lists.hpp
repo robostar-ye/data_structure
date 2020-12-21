@@ -133,7 +133,8 @@ void SeqList::split(SeqList &A, SeqList &B) {
 // 单链表
 class Node{
 public:
-  int data = 0;
+  float data = 0;
+  char elements = '\0';
   Node *down = nullptr;
 };
 
@@ -148,6 +149,7 @@ public:
   void deleteList(int pos);
   void show();
   void delRepeat();
+  Node *getHead_(){return head_;}
 private:
   Node *head_;
   int size_{};
@@ -173,8 +175,10 @@ void LinkList::createLinkStack(int size){
   for(int i = 0; i < size; i++){
     temp_1 = new Node;
     temp_1->down = nullptr;
-    std::cout<<"请输入第"<< i+1 <<"个节点的值" <<std::endl;
+    std::cout<<"请输入第"<< i+1 <<"个节点的权值" <<std::endl;
     std::cin>>temp_1->data;
+    std::cout<<"请输入第"<< i+1 <<"个节点的元素" <<std::endl;
+    std::cin>>temp_1->elements;
     temp_2->down = temp_1;
     temp_2 = temp_1;
   }
@@ -213,7 +217,7 @@ void LinkList::deleteList(int pos) {
   else{
     Node * temp = head_;
     Node * temp_1;
-    for(int i = 0; i < pos; i++){
+    for(int i = 0; i < pos ; i++){
       temp = temp->down;
     }
     temp_1 = temp->down;

@@ -1,0 +1,107 @@
+[
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp1_3.dir\\exp1\\exp1_3.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp1\\exp1_3.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp1/exp1_3.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp2_4.dir\\exp2\\exp2_4.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp2\\exp2_4.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp2/exp2_4.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\homework_3.dir\\homework\\homework_3.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\homework\\homework_3.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/homework/homework_3.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\from_zhanghuimin.dir\\from_zhanghuimin.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\from_zhanghuimin.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/from_zhanghuimin.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp1_2.dir\\exp1\\exp1_2.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp1\\exp1_2.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp1/exp1_2.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp1_1.dir\\exp1\\exp1_1.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp1\\exp1_1.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp1/exp1_1.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp1_1.dir\\exp2\\exp2_1.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp2\\exp2_1.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp2/exp2_1.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp2_1.dir\\exp2\\exp2_1.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp2\\exp2_1.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp2/exp2_1.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\homework_5.dir\\homework\\homework_5.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\homework\\homework_5.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/homework/homework_5.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp2_2.dir\\exp2\\exp2_2.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp2\\exp2_2.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp2/exp2_2.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\homework_4.dir\\homework\\homework_4.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\homework\\homework_4.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/homework/homework_4.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp2_3.dir\\exp2\\exp2_3.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp2\\exp2_3.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp2/exp2_3.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp3_1.dir\\exp3\\exp3_1.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp3\\exp3_1.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp3/exp3_1.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp3_1_.dir\\exp3\\exp3_1_.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp3\\exp3_1_.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp3/exp3_1_.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp3_2.dir\\exp3\\exp3_2.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp3\\exp3_2.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp3/exp3_2.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp3_3.dir\\exp3\\exp3_3.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp3\\exp3_3.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp3/exp3_3.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp3_4.dir\\exp3\\exp3_4.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp3\\exp3_4.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp3/exp3_4.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp4_6.dir\\exp4\\exp4_6.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp4\\exp4_6.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp4/exp4_6.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp4_8.dir\\exp4\\exp4_8.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp4\\exp4_8.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp4/exp4_8.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp5_1.dir\\exp5\\exp5_1.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp5\\exp5_1.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp5/exp5_1.cpp"
+},
+{
+  "directory": "D:/Documents/my_projects/cmake_projects/data_structure/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -std=gnu++11 -o CMakeFiles\\exp5_2.dir\\exp5\\exp5_2.cpp.obj -c D:\\Documents\\my_projects\\cmake_projects\\data_structure\\exp5\\exp5_2.cpp",
+  "file": "D:/Documents/my_projects/cmake_projects/data_structure/exp5/exp5_2.cpp"
+}
+]
